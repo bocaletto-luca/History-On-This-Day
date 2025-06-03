@@ -9,6 +9,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![API](https://img.shields.io/badge/API-Free%20Open%20Data-9cf?style=flat-square&logo=data)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/History-On-This-Day/)
+
 ## 📌 Overview
 
 **History-On-This-Day** is a dynamic and interactive web application that allows users to **explore significant historical events** that occurred on a specific day. Leveraging free open-data APIs, the app retrieves detailed information about important events, notable births, cultural milestones, and more, offering a daily glimpse into history.
