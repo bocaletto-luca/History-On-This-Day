@@ -1,0 +1,36 @@
+ /* Stili di base per body, container e footer */
+    body {
+      background-color: #f8f9fa;
+      padding-top: 40px;
+      padding-bottom: 80px; /* Per evitare che il contenuto sia nascosto dal footer fisso */
+    }
+    .container {
+      max-width: 1000px;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    /* Styling delle card per ogni evento */
+    .card {
+      margin-bottom: 15px;
+    }
+    /* Footer fisso */
+    footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: #343a40;
+      color: #ffffff;
+      text-align: center;
+      padding: 10px 0;
+      font-size: 0.9rem;
+    }
+    /* Stili per le intestazioni delle sezioni */
+    .section-header {
+      margin-top: 30px;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #dee2e6;
+      padding-bottom: 5px;
+    }
